@@ -21,8 +21,8 @@ with open('README.md', 'r', encoding='utf-8') as f:
 __version__ = "0.0.6"
 REPO_NAME = "firstproject"
 PKG_NAME= "MongoDB_Connect"
-AUTHOR_USER_NAME = "sunnysavita10"
-AUTHOR_EMAIL = "sunny.savita@ineuron.ai"
+AUTHOR_USER_NAME = "KVaishnavi123"
+AUTHOR_EMAIL = "kvaishnavi135@gmail.com"
 
 setup(
     name=PKG_NAME,

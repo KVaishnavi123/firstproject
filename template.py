@@ -5,6 +5,7 @@ package_name = "MongoDB_Connect"
 
 list_of_files = [
    ".github/workflows/ci.yaml",
+   ".github/workflows/python-publish.yaml",
    "src/__init__.py",
    f"src/{package_name}/__init__.py", 
    f"src/{package_name}/mongo_crud.py", 
